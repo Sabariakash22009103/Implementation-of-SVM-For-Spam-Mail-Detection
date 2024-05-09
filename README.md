@@ -64,13 +64,15 @@ print(cl)
 ```
 
 ## Output:
-![output](image.png)
+<img src=image.png width=500 height=300>
+
 ### X_Shape
 ![output](image-5.png)
 ### Y_Shape
 ![output](image-6.png)
-![output](image-7.png)
-![output](image-8.png)
+
+<img src=image-8.png width=500 height=300>
+
 ### X_train.shape
 ![output](image-9.png)
 ### Y-Predict
