@@ -71,7 +71,7 @@ print(cl)
 ### Y_Shape
 ![output](image-6.png)
 
-<img src=image-8.png width=500 height=300>
+<img src=image-8.png width=500 height=250>
 
 ### X_train.shape
 ![output](image-9.png)
@@ -82,7 +82,7 @@ print(cl)
 ### Confusion matrix
 ![output](image-12.png)
 ### Classification report
-![output](image-13.png)
+<img src=image.png width=400 height=250>
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
