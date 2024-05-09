@@ -67,7 +67,7 @@ print(cl)
 ```
 
 ## Output:
-<img src=image.png width=500 height=300>
+<img src=image.png width=700 height=300>
 
 ### X_Shape
 ![output](image-5.png)
